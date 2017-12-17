@@ -1,19 +1,13 @@
 # To run this program:
 # Open terminal and cd to this directory
+
+# If you have pillow:
+# Run this program normally
+
+# If you don't have pillow:
 # Type in "python3 out.pex modernArt.py"
 #     out.pex includes PIl so you don't have to download it
 #     Pex comes with python, you don't need to install anything.
-# Or install pillow with "pip3 install pillow"
-
-# Sometimes this program struggles to run and the icon just jumps up and down.
-# If that happens, terminate and try running again.
-
-# This wouldn't run on my home laptop (the error message said something
-#  about "missing compatible dependencies for pillow), but I did see it run on
-#  your computer at school.  It's a fine piece of work!
-
-#  UPDATE:  It now works!  I had to make sure that my version of IDLE was exactly
-#   the same as the Python that the terminal thinks is active.
 
 from tkinter import *
 from webbrowser import open_new
