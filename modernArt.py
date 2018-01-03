@@ -1,13 +1,4 @@
-# To run this program:
-# Open terminal and cd to this directory
-
-# If you have pillow:
-# Run this program normally
-
-# If you don't have pillow:
-# Type in "python3 out.pex modernArt.py"
-#     out.pex includes PIl so you don't have to download it
-#     Pex comes with python, you don't need to install anything.
+# By Nico Brubaker, applying 9th grade
 
 from tkinter import *
 from webbrowser import open_new
