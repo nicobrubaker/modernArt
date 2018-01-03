@@ -11,4 +11,5 @@ _(Requires Python 3)_
   - Cd into this directory from terminal and typing in `python3 out.pex modernArt.py`
 
 _Made by Nico Brubaker, applying for grade 9_
+
 _Inspired by @fogleman_
