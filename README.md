@@ -12,4 +12,4 @@ _(Requires Python 3)_
 
 _Made by Nico Brubaker, applying for grade 9_
 
-_Inspired by @fogleman_
+_Inspired by GitHub user [fogleman](https://github.com/fogleman/Piet)_
