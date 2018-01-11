@@ -1,5 +1,5 @@
 # modernArt
-Generates images in the style of Piet Mondrain
+Procedurally generates images in the style of Piet Mondrain
 
 ### To look at the code
 Click on "modernArt.py" above (between README.md and out.pex)
