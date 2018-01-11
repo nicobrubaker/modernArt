@@ -3,7 +3,7 @@ Generates images in the style of Piet Mondrain
 
 ### To run this program
 _(Requires Python 3)_
-1. Clone this repository to your computer
+1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/) to your computer
 2.
 - If you have pillow installed
   - Run modernArt.py normally
