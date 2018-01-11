@@ -8,7 +8,7 @@ _(Requires Python 3)_
 - If you have pillow installed
   - Run modernArt.py normally
 - If you don't have pillow installed
-  - Cd into this directory from terminal and typing in `python3 out.pex modernArt.py`
+  - ```cd``` into this directory from terminal and typing in `python3 out.pex modernArt.py`
 
 _Made by Nico Brubaker, applying for grade 9_
 
